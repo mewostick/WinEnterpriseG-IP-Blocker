@@ -1,5 +1,5 @@
 # WinEnterpriseG-IP-Blocker
-This simple script will remove fishy IP addresses (probably spyware) to your hosts file which will decrease the amount of connections your install does when idling.
+This simple script will add fishy IP addresses (which are probably spyware) to your hosts file which will decrease the amount of connections your install does when idling.
 
 
 ## Usage
