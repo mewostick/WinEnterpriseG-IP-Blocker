@@ -2,6 +2,10 @@
 This simple script will add fishy IP addresses (probably spyware) to your hosts file which will decrease the amount of connections your install does when idling.
 
 
+## Usage
+Run the .bat script as an administrator. The script will make a backup of your hosts then apply the changes.
+
+
 ## The final result on my install (when idling)
 Before:
 
