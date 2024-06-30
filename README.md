@@ -16,4 +16,4 @@ After:
 <img src="https://github.com/mewostick/WinEnterpriseG-IP-Blocker/blob/main/vmware_eQ4Lhkyc6Q.png?raw=true">
 
 
-Of course this is Windows and as such you may end up with a different end result. There is still DNS queries being made which you can block with a network-wide DNS blocker or maybe something like NextDNS.
+Of course this is Windows and as such you may end up with a different end result. There are still DNS queries being made which you can block with a network-wide DNS blocker or maybe something like NextDNS.
